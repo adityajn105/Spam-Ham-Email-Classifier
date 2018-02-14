@@ -20,7 +20,7 @@ python -m nltk.downloader all
 ``` 
 To ensure central installation, run the command 
 ```
-sudo python -m nltk.downloader -d /usr/local/share/nltk_data all.
+sudo python -m nltk.downloader -d /usr/local/share/nltk_data all
 ```
 
  You can use the -d flag to specify a different location (but if you do this, be sure to set the NLTK_DATA environment variable accordingly).
@@ -40,4 +40,12 @@ To run app:
 ```
 Initializing classifier may take about half and hour due to large training dataset So wait patiently .
 
-The app by default will run on port 3000. You can change it from app.js.
+The app by default will run on port 3000. You can change it from app.py.
+
+
+## Some ScreenShots
+
+:-------------------------:|:-------------------------:
+![Spam 1](https://raw.githubusercontent.com/Adityajn/Spam-Ham-Email-Classifier/master/Screenshots/spam1.png)  		 |  ![Ham 1](https://raw.githubusercontent.com/Adityajn/Spam-Ham-Email-Classifier/master/Screenshots/ham1.png)
+:-------------------------:|:-------------------------:
+![Spam 2](https://raw.githubusercontent.com/Adityajn/Spam-Ham-Email-Classifier/master/Screenshots/spam2.png)  		 |  ![Ham 2](https://raw.githubusercontent.com/Adityajn/Spam-Ham-Email-Classifier/master/Screenshots/ham2.png)
