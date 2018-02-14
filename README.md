@@ -46,6 +46,6 @@ The app by default will run on port 3000. You can change it from app.py.
 ## Some ScreenShots
 
 :-------------------------:|:-------------------------:
-![Spam 1](https://raw.githubusercontent.com/Adityajn/Spam-Ham-Email-Classifier/master/Screenshots/spam1.png)  		 |  ![Ham 1](https://raw.githubusercontent.com/Adityajn/Spam-Ham-Email-Classifier/master/Screenshots/ham1.png)
+![Spam 1](https://raw.githubusercontent.com/Adityajn/Spam-Ham-Email-Classifier/master/Screenshots/spam1.png?token=AQLOt0Gho621qsIHt9wng2QGtUCxL2JJks5ajdhiwA%3D%3D)  		 |  ![Ham 1](https://raw.githubusercontent.com/Adityajn/Spam-Ham-Email-Classifier/master/Screenshots/ham1.png?token=AQLOt_J1bAUkGPM3N0eZS2GM1MRnF5JRks5ajdglwA%3D%3D)
 :-------------------------:|:-------------------------:
-![Spam 2](https://raw.githubusercontent.com/Adityajn/Spam-Ham-Email-Classifier/master/Screenshots/spam2.png)  		 |  ![Ham 2](https://raw.githubusercontent.com/Adityajn/Spam-Ham-Email-Classifier/master/Screenshots/ham2.png)
+![Spam 2](https://raw.githubusercontent.com/Adityajn/Spam-Ham-Email-Classifier/master/Screenshots/spam2.png?token=AQLOtyAfwyZn1nK01NxZIZ9JcU2LjvJCks5ajdh5wA%3D%3D)  		 |  ![Ham 2](https://raw.githubusercontent.com/Adityajn/Spam-Ham-Email-Classifier/master/Screenshots/ham2.png?token=AQLOtxSB_WU9Gjsf6Bxk28bwIFtb8Vwaks5ajdhOwA%3D%3D)
