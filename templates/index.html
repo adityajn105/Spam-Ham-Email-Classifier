@@ -1,0 +1,26 @@
+<html>
+<head>
+	<title>Spam-Ham Email Classifier</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+	<div class="col-md-8" style="margin: 2%">
+		<h2> Spam-Ham Email Classifier</h2>
+		<form action="/" method="POST">
+		  	<div class="form-group">
+		    	<label for="email">Email Body:</label>
+		    	<textarea class="form-control" rows="5" id="email" name="content" placeholder="Your Email Content"></textarea>
+		  </div>
+		  <button type="submit" class="btn btn-default">Classify</button>
+		</form>
+	
+		{% if data.status %}
+			<div class="alert alert-success">
+				<p>{{data.content}}</p>
+			  	<h3><strong>This Email looks like a {{data.result}} </strong></h3>
+			</div>
+		{% endif %}
+	</div>
+
+</body>
+</html>
